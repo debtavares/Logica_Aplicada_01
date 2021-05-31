@@ -47,28 +47,6 @@ E o oposto de Variável é Constante (**Const**), um valor que não pode ser alt
     10 - Crie uma variavel que recebe o ano de nascimento da pessoa informando se ela é maior de idade ou menor.
 
 ```
-<br> **Comentário das resoluções**:
-
-**1ª -** Foram criadas três variáveis, uma para receber o preço da mercadoria (x), a segunda para calcular o desconto de 20% (x * 0,2) e a terceira para calcular o valor menos o desconto. No fim, mostrar o valor que irá pagar na tela.
-
-<br>**2ª -** O tempo de viagem é calculado pela velocidade media dividido pela distância. Novamente, três variáveis são criadas para ser atribuída essas informações e o calculo aparecer na tela através do console.log().
-
-<br>**3ª -** Três variáveis referentes ao valor do jantar, taxa (0,1 * x) e o total, que é a soma das duas primeiras variáveis.
-
-<br>**4ª -** Duas variáveis referentes ao KM rodado e a quantidade de dias. A fórmula utilizada foi (km*0.15+(dias*60)). 
-
-<br>**5ª -** Três variáveis de entrada de números, depois calculo da média (n1+n2+n3/3)
-
-<br>**6ª -** Uma variável é criada para que se receba um numero de 1 a 7, referente aos dias da semana, e o escopo retorna o dia da semana correspondente, através de if, else if e else. Também poderia ser utilizado o switch.
-
-<br>**7ª -** Duas variáveis são criadas para receber um número cada, retornando a resposta sendo maior, menor ou iguais. 
-
-<br>**8ª -** A média é calculada conforme o quesito 5ª, mas a diferença está no uso da condicional, onde o if simboliza  *se* , else if, *se não se* , e else simboliza *se não* .
-Nesse caso, o se a média for maior que 7, o console retorna "aprovado". Se entre 5 e 7, retorna recuperação, caso contrário (não seja nenhuma das duas opções, ou seja, menor que 5) o console exibe reprovado.
-
-<br>**9ª -** Uma variável recebe um número e a fórmula indica **if** (se) o resto da divisão por 2 retornar 0, o número é par, **else** (caso contrário) é ímpar.
-
-<br>**10ª -** Uma Variável referente ao ano que nasceu e outra com a diferença do ano atual e o ano de nascimento informado. Se o resultado for > 18, retorna maioridade. Caso contrário, menoridade. 
 
 <br>*That's all folks!*
 
