@@ -1,6 +1,6 @@
 # Lógica aplicada - JavaScript :zap:
 
-###### Semana 2 - {Reprograma}
+###### Semana 3 - {Reprograma}
 
 <br>O aprendizado semanal no JS foi através do Visual Studio Code, declarando variáveis e utilizando o console.log() para emissão de informações no terminal do programa.
 
